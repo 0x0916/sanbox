@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "width": 143,
+  "height": 45,
+  "duration": 54.476241,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.217475,
+      "\u001b[?1034hwanglong@wanglongs-MacBook-Pro.local::[15:39:05]::[Exit Code: 0] ->\r\r\n~/test (master) $ "
+    ],
+    [
+      0.707127,
+      "l"
+    ],
+    [
+      0.207509,
+      "e"
+    ],
+    [
+      0.279695,
+      "n"
+    ],
+    [
+      0.184662,
+      "o"
+    ],
+    [
+      0.215632,
+      "v"
+    ],
+    [
+      0.184266,
+      "o"
+    ],
+    [
+      0.653839,
+      "\r\n"
+    ],
+    [
+      0.132927,
+      "Last login: Fri Dec 22 15:35:24 2017 from 172.18.161.40\r\r\n"
+    ],
+    [
+      0.090921,
+      "ABRT has detected 1 problem(s). For more info run: abrt-cli list --since 1513928209\r\n"
+    ],
+    [
+      0.155331,
+      "setterm: cannot (un)set powersave mode: Inappropriate ioctl for device\r\n"
+    ],
+    [
+      3.8e-05,
+      "\u001b[14;0]"
+    ],
+    [
+      0.001381,
+      "\u001b]0;root@localhost:~\u0007"
+    ],
+    [
+      4.4e-05,
+      "\u001b[?1034h[root@localhost ~]# "
+    ],
+    [
+      2.0,
+      "t"
+    ],
+    [
+      0.197142,
+      "m"
+    ],
+    [
+      0.241033,
+      "u"
+    ],
+    [
+      0.88022,
+      "x"
+    ],
+    [
+      0.278829,
+      "\r\n"
+    ],
+    [
+      0.006996,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b>\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b[>4;1m\u001b[?1004h\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:bash*                                                                                             \"localhost.localdomain\" 15:39 22-Dec-17\u001b(B\u001b[m\u001b[45;1H\u001b[1;45r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.4162,
+      "\u001b[1;44rsetterm: cannot (un)set powersave mode: \u001b[1;45r\u001b[H\u001b[40C\u001b[1;44r\u001b[H\u001b[40CInappropriate ioctl for device\u001b[1;45r\u001b[H\r\n\u001b[?25l\u001b[45d\u001b[30m\u001b[42m[0] 0:root@localhost:~*                                                                                 \"localhost.localdomain\" 15:39 22-Dec-17\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h\u001b[1;44r\u001b[H\r\n[root@localhost ~]# \u001b[1;45r\u001b[H\u001b[2;21H"
+    ],
+    [
+      0.641701,
+      "\u001b[1;44r\u001b[H\u001b[2;21Hc\u001b[1;45r\u001b[H\u001b[2;22H"
+    ],
+    [
+      0.208956,
+      "\u001b[1;44r\u001b[H\u001b[2;22Hd\u001b[1;45r\u001b[H\u001b[2;23H"
+    ],
+    [
+      0.141843,
+      "\u001b[1;44r\u001b[H\u001b[2;23H \u001b[1;45r\u001b[H\u001b[2;24H"
+    ],
+    [
+      0.243064,
+      "\u001b[1;44r\u001b[H\u001b[2;24Hw\u001b[1;45r\u001b[H\u001b[2;25H"
+    ],
+    [
+      0.149659,
+      "\u001b[1;44r\u001b[H\u001b[2;25Ho\u001b[1;45r\u001b[H\u001b[2;26H"
+    ],
+    [
+      0.123175,
+      "\u001b[1;44r\u001b[H\u001b[2;26Hrk/\u001b[1;45r\u001b[H\u001b[2;29H"
+    ],
+    [
+      0.390487,
+      "\r\n"
+    ],
+    [
+      0.001521,
+      "\u001b[?25l\u001b[45d\u001b[30m\u001b[42m[0] 0:root@localhost:~/work*                                                                            \"localhost.localdomain\" 15:39 22-Dec-17\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h\u001b[1;44r\u001b[H\u001b[2B[root@localhost work]# \u001b[1;45r\u001b[H\u001b[3;24H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[3;24H#\u001b[1;45r\u001b[H\u001b[3;25H"
+    ],
+    [
+      0.268651,
+      "\u001b[1;44r\u001b[H\u001b[3;25H \u001b[1;45r\u001b[H\u001b[3;26H"
+    ],
+    [
+      0.730116,
+      "\u001b[1;44r\u001b[H\u001b[3;26H限制磁盘/dev/sda的io为10m\u001b[1;45r\u001b[H\u001b[3;43H"
+    ],
+    [
+      0.318497,
+      "\u001b[1;44r\u001b[H\u001b[3B[root@localhost work]# \u001b[1;45r\u001b[H\u001b[4;24H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[4;24Hdocker run -it --rm  -v `pwd`:/work  --device-write-bps /dev/sda:10mb busybox \u001b[1;45r\u001b[H\u001b[4;102H"
+    ],
+    [
+      0.393145,
+      "\r\n"
+    ],
+    [
+      0.817506,
+      "\u001b[1;44r\u001b[H\u001b[4B/ # \u001b[1;45r\u001b[H\u001b[5;5H\u001b[1;44r\u001b[H\u001b[4B/ # \u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;45r\u001b[H\u001b[5;5H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[5;5Hdd if=/\u001b[1;45r\u001b[H\u001b[5;12H\u001b[1;44r\u001b[H\u001b[5;12Hdev/zer\u001b[1;45r\u001b[H\u001b[5;19H"
+    ],
+    [
+      0.000391,
+      "\u001b[1;44r\u001b[H\u001b[5;19Ho of=\u001b[1;45r\u001b[H\u001b[5;24H\u001b[1;44r\u001b[H\u001b[5;24H/w\u001b[1;45r\u001b[H\u001b[5;26H\u001b[1;44r\u001b[H\u001b[5;26Hork/\u001b[1;45r\u001b[H\u001b[5;30H"
+    ],
+    [
+      0.000425,
+      "\u001b[1;44r\u001b[H\u001b[5;30Ha.out\u001b[1;45r\u001b[H\u001b[5;35H\u001b[1;44r\u001b[H\u001b[5;35H bs=1\u001b[1;45r\u001b[H\u001b[5;40H\u001b[1;44r\u001b[H\u001b[5;40HM co\u001b[1;45r\u001b[H\u001b[5;44H"
+    ],
+    [
+      0.000228,
+      "\u001b[1;44r\u001b[H\u001b[5;44Hunt=\u001b[1;45r\u001b[H\u001b[5;48H"
+    ],
+    [
+      0.00238,
+      "\u001b[1;44r\u001b[H\u001b[5;48H10\u001b[1;45r\u001b[H\u001b[5;50H\u001b[1;44r\u001b[H\u001b[5;50H00\u001b[1;45r\u001b[H\u001b[5;52H"
+    ],
+    [
+      0.451013,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[5B1000+0 records in\r\n1000+0 records out\r\n1048576000 bytes (1000.0MB) copied, 5.705305 seconds, 175.3MB/s\u001b[1;45r\u001b[H\u001b[8B"
+    ],
+    [
+      0.00097,
+      "\u001b[1;44r\u001b[H\u001b[8B/ # \u001b[1;45r\u001b[H\u001b[9;5H"
+    ],
+    [
+      1.943928,
+      "\u001b[1;44r\u001b[H\u001b[9;5He\u001b[1;45r\u001b[H\u001b[9;6H"
+    ],
+    [
+      0.230006,
+      "\u001b[1;44r\u001b[H\u001b[9;6Hx\u001b[1;45r\u001b[H\u001b[9;7H"
+    ],
+    [
+      0.119494,
+      "\u001b[1;44r\u001b[H\u001b[9;7Hi\u001b[1;45r\u001b[H\u001b[9;8H"
+    ],
+    [
+      0.135879,
+      "\u001b[1;44r\u001b[H\u001b[9;8Ht\u001b[1;45r\u001b[H\u001b[9;9H"
+    ],
+    [
+      0.135322,
+      "\r\n"
+    ],
+    [
+      0.504164,
+      "\u001b[1;44r\u001b[H\u001b[9B[root@localhost work]# \u001b[?25l\u001b[45;1H\u001b[30m\u001b[42m[0] 0:root@localhost:~/work*                                                                            \"localhost.localdomain\" 15:40 22-Dec-17\u001b(B\u001b[m\u001b[45;1H\u001b[1;45r\u001b[H\u001b[9;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.800142,
+      "\u001b[1;44r\u001b[H\u001b[9;24H#\u001b[1;45r\u001b[H\u001b[9;25H"
+    ],
+    [
+      0.247574,
+      "\u001b[1;44r\u001b[H\u001b[9;25H \u001b[1;45r\u001b[H\u001b[9;26H"
+    ],
+    [
+      0.689657,
+      "\u001b[1;44r\u001b[H\u001b[9;26H可以看出，写速率非常快\u001b[1;45r\u001b[H\u001b[9;50H"
+    ],
+    [
+      0.453934,
+      "\u001b[1;44r\u001b[H\u001b[10B[root@localhost work]# \u001b[1;45r\u001b[H\u001b[11;24H"
+    ],
+    [
+      0.599755,
+      "\u001b[1;44r\u001b[H\u001b[11B[root@localhost work]# \u001b[1;45r\u001b[H\u001b[12;24H"
+    ],
+    [
+      0.190979,
+      "\u001b[1;44r\u001b[H\u001b[12B[root@localhost work]# \u001b[1;45r\u001b[H\u001b[13;24H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[13;24H#\u001b[1;45r\u001b[H\u001b[13;25H"
+    ],
+    [
+      0.248429,
+      "\u001b[1;44r\u001b[H\u001b[13;25H \u001b[1;45r\u001b[H\u001b[13;26H"
+    ],
+    [
+      0.699688,
+      "\u001b[1;44r\u001b[H\u001b[13;26H限制io速率10m，内存300m\u001b[1;45r\u001b[H\u001b[13;53H"
+    ],
+    [
+      0.571364,
+      "\u001b[1;44r\u001b[H\u001b[13BYou have new mail in /var/spool/mail/root\r\n[root@localhost work]# \u001b[1;45r\u001b[H\u001b[15;24H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[15;24Hdocker run -it --rm -m 300m  -v `pwd`:/work  --device-write-bps /dev/sda:10mb busybox  \u001b[1;45r\u001b[H\u001b[15;111H"
+    ],
+    [
+      0.682303,
+      "\r\n"
+    ],
+    [
+      0.631796,
+      "\u001b[1;44r\u001b[H\u001b[15B/ # \u001b[1;45r\u001b[H\u001b[16;5H"
+    ],
+    [
+      0.001203,
+      "\u001b[1;44r\u001b[H\u001b[15B/ # \u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;45r\u001b[H\u001b[16;5H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[16;5Hdd i\u001b[1;45r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.000194,
+      "\u001b[1;44r\u001b[H\u001b[16;9Hf=/de\u001b[1;45r\u001b[H\u001b[16;14H\u001b[1;44r\u001b[H\u001b[16;14Hv/z\u001b[1;45r\u001b[H\u001b[16;17H\u001b[1;44r\u001b[H\u001b[16;17Hero \u001b[1;45r\u001b[H\u001b[16;21H"
+    ],
+    [
+      0.000987,
+      "\u001b[1;44r\u001b[H\u001b[16;21Hof=\u001b[1;45r\u001b[H\u001b[16;24H\u001b[1;44r\u001b[H\u001b[16;24H/w\u001b[1;45r\u001b[H\u001b[16;26H\u001b[1;44r\u001b[H\u001b[16;26Hork\u001b[1;45r\u001b[H\u001b[16;29H"
+    ],
+    [
+      0.000525,
+      "\u001b[1;44r\u001b[H\u001b[16;29H/a.ou\u001b[1;45r\u001b[H\u001b[16;34H\u001b[1;44r\u001b[H\u001b[16;34Ht bs=\u001b[1;45r\u001b[H\u001b[16;39H"
+    ],
+    [
+      3.3e-05,
+      "\u001b[1;44r\u001b[H\u001b[16;39H1M c\u001b[1;45r\u001b[H\u001b[16;43H\u001b[1;44r\u001b[H\u001b[16;43Hount=1\u001b[1;45r\u001b[H\u001b[16;49H\u001b[1;44r\u001b[H\u001b[16;49H00\u001b[1;45r\u001b[H\u001b[16;51H\u001b[1;44r\u001b[H\u001b[16;51H0\u001b[1;45r\u001b[H\u001b[16;52H"
+    ],
+    [
+      0.580322,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "\u001b[?25l\u001b[45d\u001b[30m\u001b[42m[0] 0:root@localhost:~/work*                                                                            \"localhost.localdomain\" 15:41 22-Dec-17\u001b(B\u001b[m\u001b[17;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[16B1000+0 records in\r\n1000+0 records out\u001b[1;45r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000199,
+      "\u001b[1;44r\u001b[H\u001b[18B1048576000 bytes (1000.0MB) copied, 67.136131 seconds, 14.9MB/s\u001b[1;45r\u001b[H\u001b[19B"
+    ],
+    [
+      0.00066,
+      "\u001b[1;44r\u001b[H\u001b[19B/ # \u001b[1;45r\u001b[H\u001b[20;5H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[20;5He\u001b[1;45r\u001b[H\u001b[20;6H"
+    ],
+    [
+      0.248908,
+      "\u001b[1;44r\u001b[H\u001b[20;6Hx\u001b[1;45r\u001b[H\u001b[20;7H"
+    ],
+    [
+      0.158402,
+      "\u001b[1;44r\u001b[H\u001b[20;7Hi\u001b[1;45r\u001b[H\u001b[20;8H"
+    ],
+    [
+      0.127184,
+      "\u001b[1;44r\u001b[H\u001b[20;8Ht\u001b[1;45r\u001b[H\u001b[20;9H"
+    ],
+    [
+      0.150655,
+      "\r\n"
+    ],
+    [
+      1.172412,
+      "\u001b[1;44r\u001b[H\u001b[20BYou have new mail in /var/spool/mail/root\r\n[root@localhost work]# \u001b[1;45r\u001b[H\u001b[22;24H"
+    ],
+    [
+      1.782368,
+      "\u001b[1;44r\u001b[H\u001b[22;24H#\u001b[1;45r\u001b[H\u001b[22;25H"
+    ],
+    [
+      0.663328,
+      "\u001b[1;44r\u001b[H\u001b[22;25H \u001b[1;45r\u001b[H\u001b[22;26H"
+    ],
+    [
+      0.817547,
+      "\u001b[1;44r\u001b[H\u001b[22;26H可以看出，磁盘io得到了限制\u001b[1;45r\u001b[H\u001b[22;50H"
+    ],
+    [
+      2.0,
+      "\u001b[1;44r\u001b[H\u001b[23d[root@localhost work]# \u001b[1;45r\u001b[H\u001b[23;24H"
+    ],
+    [
+      2.0,
+      "\u001b[1;45r\u001b(B\u001b[m\u001b[?1l\u001b>\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[>4m\u001b[?1004l\u001b[?1049l"
+    ],
+    [
+      0.001239,
+      "[detached]\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b]0;root@localhost:~\u0007You have new mail in /var/spool/mail/root\r\n[root@localhost ~]# "
+    ],
+    [
+      0.680047,
+      "e"
+    ],
+    [
+      0.240402,
+      "x"
+    ],
+    [
+      0.151162,
+      "i"
+    ],
+    [
+      0.167914,
+      "t"
+    ],
+    [
+      0.150251,
+      "\r\n"
+    ],
+    [
+      0.00118,
+      "logout\r\n"
+    ],
+    [
+      0.003521,
+      "Connection to 172.18.40.240 closed.\r\r\n"
+    ],
+    [
+      0.01135,
+      "wanglong@wanglongs-MacBook-Pro.local::[15:41:57]::[Exit Code: 0] ->\r\r\n~/test (master) $ "
+    ],
+    [
+      0.535637,
+      "e"
+    ],
+    [
+      0.248071,
+      "x"
+    ],
+    [
+      0.087633,
+      "i"
+    ],
+    [
+      0.144487,
+      "t"
+    ],
+    [
+      0.086001,
+      "\r\n"
+    ]
+  ]
+}
